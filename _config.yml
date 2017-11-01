@@ -1,2 +1,4 @@
 name: Lucas Bessa, Aspiring Data Scientist
 markdown: kramdown
+
+permalink: /blog/:year/:month/:day/:title
